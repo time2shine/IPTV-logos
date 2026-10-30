@@ -3452,16 +3452,16 @@
     "group": "Sports",
     "tvg_id": "foxcricket.in",
     "slug": "cr_fox_cricket_501",
-    "file": null,
-    "cdn_url": null
+    "file": "cr_fox_cricket_501.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/time2shine/IPTV-logos@main/logos/cr_fox_cricket_501.png"
   },
   {
     "name": "CR | Fox Cricket 501 HD",
     "group": "Sports",
     "tvg_id": "FoxCricket501",
     "slug": "cr_fox_cricket_501_hd",
-    "file": null,
-    "cdn_url": null
+    "file": "cr_fox_cricket_501_hd.png",
+    "cdn_url": "https://cdn.jsdelivr.net/gh/time2shine/IPTV-logos@main/logos/cr_fox_cricket_501_hd.png"
   },
   {
     "name": "CR | Star Sports 1 Hindi",

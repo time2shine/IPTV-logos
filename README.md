@@ -2,8 +2,8 @@
 
 Official, high-resolution, transparent broadcast channel logos optimized for [StreamVault IPTV](https://github.com/time2shine/StreamVault-IPTV).
 
-- **Total Logos Hosted:** 1077
-- **Matched Live Channels:** 1079 / 1232 (87.6%)
+- **Total Logos Hosted:** 1080
+- **Matched Live Channels:** 1081 / 1232 (87.7%)
 - **Delivery CDN:** Free global high-speed edge caching via [jsDelivr CDN](https://www.jsdelivr.com/)
 
 ---
@@ -34,7 +34,7 @@ https://cdn.jsdelivr.net/gh/time2shine/IPTV-logos@main/logos/<channel_name>.png
 
 ```
 IPTV-logos/
-├── logos/              # 1077 clean transparent PNG/SVG logo files
+├── logos/              # 1080 clean transparent PNG/SVG logo files
 ├── mapping.json        # Complete JSON index mapping channel names to CDN URLs
 └── README.md
 ```
