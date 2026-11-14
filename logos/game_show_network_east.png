@@ -1,0 +1,309 @@
+<!DOCTYPE html><html lang="en" class="gotham"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="description" content="Watch your favorite game shows on Game Show Network, including Family Feud, Jeopardy!, and more. Find your channel, check the schedule, and enjoy free episodes, clips, and games."><meta name="keywords" content="game show network, watch game shows, game shows on tv, Family Feud, Jeopardy, Wheel of Fortune, America Says, Deal or No Deal, The Chase"><meta name="og:image" content="https://images.prismic.io/gameshownetwork/afExmcBOoF08xZe5_GSN-1200x630.png?auto=format%2Ccompress&rect=0%2C0%2C3750%2C1969&w=1200&h=630&q=85"><title>Game Show Network | Watch Game Shows &amp; TV Schedule</title><link rel="icon" href="https://images.prismic.io/gameshownetwork/aRPjdLpReVYa4XI8_favicon.jpg?auto=format%2Ccompress&q=85" type="image/png"><!-- OneTrust Cookies Consent Notice start for gameshownetwork.com --><script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="032666a2-8852-4a92-b603-69fbe4298b4b"></script>
+
+      <script>(function(){const gaId = "G-WHDXV0ETPJ";
+window.__gaId = gaId;})();</script>
+
+      <script src="/main_copy_consent-api-min-v2.js" defer></script><!-- OneTrust Cookies Consent Notice end --><script src="https://kit.fontawesome.com/e3b4181823.js" crossorigin="anonymous"></script><!-- Cloudflare Turnstile --><script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script><!-- Google Tag Manager --><!-- End Google Tag Manager --><!-- OneTrust GA: import module (Vite-bundled, runs after DOM parse) --><script type="module">function a(){const t=document.querySelector(".transition-one"),e=document.querySelectorAll("section");setTimeout(()=>{t&&t.classList.add("hide"),e&&e.forEach(n=>{n.classList.add("show")})},400)}function l(){const t=document.getElementById("one-trust-wrapper"),e=document.getElementById("onetrust-consent-sdk"),n=document.getElementById("onetrust-banner-sdk");if(t&&e)t.appendChild(e);else if(t&&n)t.appendChild(n);else if(t){const o=new MutationObserver(r=>{const s=document.getElementById("onetrust-consent-sdk")||document.getElementById("onetrust-banner-sdk");s&&(t.appendChild(s),o.disconnect())});o.observe(document.body,{childList:!0,subtree:!0})}}function d(){const e=new URLSearchParams(window.location.search).get("nav");if(e){const n=document.getElementById(e);n&&n.scrollIntoView({behavior:"smooth",block:"start"})}}function u(){const e=new URLSearchParams(window.location.search).get("lightbox");if(e){const n=()=>{window.openLightbox?window.openLightbox(e):setTimeout(n,50)};n()}}function h(){const t=document.querySelectorAll("section[id]");if(t.length===0)return;let e=null;const n={root:null,rootMargin:"-50% 0px -50% 0px",threshold:0},o=new IntersectionObserver(r=>{r.forEach(s=>{if(s.isIntersecting){const i=s.target.id;if(i&&i!==e){e=i;const c=new URL(window.location.href);c.searchParams.set("nav",i),window.history.replaceState({},"",c)}}})},n);t.forEach(r=>{o.observe(r)})}a();l();window.addEventListener("load",()=>{d(),u(),h()});function w(t){if(!t.startsWith("http://")&&!t.startsWith("https://"))return!1;try{const e=new URL(t).hostname.toLowerCase().replace(/^www\./,""),n=window.location.hostname.toLowerCase().replace(/^www\./,"");if(e===n)return!1;const o=window.__outboundBumperDomains||[];return o.length===0?!1:o.some(r=>e===r||e.endsWith("."+r))}catch{return!1}}document.addEventListener("click",t=>{if(!t.target||!(t.target instanceof Element))return;const e=t.target.closest("a[href]");if(!e)return;const n=e.getAttribute("href");if(n){if(n.startsWith("#lightbox:")){t.preventDefault();const o=n.replace("#lightbox:","");window.openLightbox&&window.openLightbox(o);return}if(n.startsWith("#nav:")){t.preventDefault();const o=n.replace("#nav:",""),r=document.getElementById(o);if(r){r.scrollIntoView({behavior:"smooth",block:"center"});const s=new URL(window.location.href);s.searchParams.set("nav",o),window.history.pushState({},"",s)}return}if(w(n)&&!e.closest("[data-exit-notice-proceed]")){t.preventDefault(),document.querySelectorAll("[data-exit-notice-proceed]").forEach(o=>{const r=o.querySelector("a");r&&(r.setAttribute("href",n),r.setAttribute("target",e.getAttribute("target")||"_blank"))}),window.openLightbox&&window.openLightbox("exit-notice");return}}});</script><style>.standard-pill-btn[data-astro-cid-ec2ngpys]{min-width:clamp(7rem,11.5vw,11.5rem);display:inline-block;padding:clamp(.4rem,.7vw,.7rem) clamp(1.3rem,1.9vw,1.9rem);background-color:rgba(var(--rgb-bg-color),1);color:var(--text-color);border:2px solid rgba(var(--rgb-bg-color),1);border-radius:var(--border-radius-pill, 100px);text-decoration:none;white-space:nowrap;font-size:clamp(.7rem,1.1vw,1.1rem);font-weight:600;text-align:center;transition:background-color .3s ease,color .3s ease}.standard-pill-btn[data-astro-cid-ec2ngpys]:hover{background-color:rgba(var(--rgb-bg-color),0);color:rgba(var(--rgb-bg-color),1)}.pill-button{width:auto;height:auto;position:relative;margin:0 clamp(.2rem,.5vw,.5rem);border:3px solid #333;border-radius:100px;font-size:clamp(.7rem,1vw,1rem);padding:clamp(.3rem,.5vw,.5rem) clamp(.6rem,1vw,1rem);white-space:nowrap;cursor:pointer;transition:.2s}.pill-button:hover,.pill-button.selected{background-color:#333;color:#fff}.rect-btn{width:auto;height:auto;position:relative;display:inline-block;padding:clamp(.3rem,.5vw,.5rem) clamp(.6rem,1vw,1rem);font-size:clamp(.7rem,2vw,1rem);border:1px solid #333;white-space:nowrap;text-decoration:none!important;cursor:pointer}.rect-btn.selected{background-color:var(--selected-bg-color, #333);pointer-events:none}
+</style>
+<link rel="stylesheet" href="/_astro/_slug_.BCD-1aNl.css">
+<style>.error-404[data-astro-cid-zetdm5md]{font-family:var(--font-family-primary);min-height:80vh;display:flex;align-items:center;justify-content:center;text-align:center;padding:2rem;color:var(--text-color)}.error-container[data-astro-cid-zetdm5md]{max-width:600px}.pill-button[data-astro-cid-zetdm5md]{display:inline-block;background-color:var(--cta-background-color);color:var(--cta-text-color);font-weight:700;margin-top:1rem;border-color:var(--cta-background-color);text-decoration:none;transition:.2s}.pill-button[data-astro-cid-zetdm5md]:hover{color:var(--cta-background-color);background-color:transparent}
+</style></head> <body class="rounded-strong" style="background-color: #FFFFFF; background-image: url(https://images.prismic.io/gameshownetwork/aWNtQQIvOtkhBQiH_resized_blue_spotlight_bg.jpg?auto=format%2Ccompress&#38;q=85); background-attachment: fixed; background-size: cover; background-position: top center;"> <!-- Google Tag Manager (noscript) -->  <!-- End Google Tag Manager (noscript) --> <script>(function(){const outboundBumperDomains = ["inspiresleep.com","games.gameshownetwork.com"];
+
+      window.__outboundBumperDomains = outboundBumperDomains;
+    })();</script> <div class="transition-one" style="background-color: #FFFFFF;"></div> <div id="one-trust-wrapper"></div> <div class="sony-header" data-astro-cid-vzca2dg3> <a href="https://www.sonypictures.com" target="_blank" rel="noopener noreferrer" class="sony-header__link sony-header__link--left" aria-label="Sony Pictures" data-astro-cid-vzca2dg3> <!-- Sony Pictures Television wordmark --> <img src="/_astro/sonypictureslogo.DgwyO7Hm.svg" alt="Sony Pictures Television" class="sony-header__logo sony-header__logo--sony-pictures" data-astro-cid-vzca2dg3> </a> <a href="https://www.sony.com" target="_blank" rel="noopener noreferrer" class="sony-header__link sony-header__link--right" aria-label="Sony" data-astro-cid-vzca2dg3> <!-- Sony wordmark --> <img src="/_astro/sonylogo.CZ3dJKhU.svg" alt="Sony" class="sony-header__logo sony-header__logo--sony" data-astro-cid-vzca2dg3> </a> </div>  <header style="--nav-bg-color: #1E306A; --nav-text-color: #FFFFFF; --nav-pill-color: #FFFFFF; --nav-mini-padding-top: 1rem; --font-weight: 700; --logo-width-in-mini-nav: 5rem; --logo-width-mobile: 4rem; --hamburger-menu-color: #FFFFFF;" data-astro-cid-3ef6ksr2><a href="/" data-astro-cid-3ef6ksr2><img src="https://images.prismic.io/gameshownetwork/aR49vGGnmrmGqDYo_Game_Show_Network_Logo_2018_RGB.jpg?auto=format%2Ccompress&q=85" alt="Game Show Network" class="site-logo " data-astro-cid-3ef6ksr2></a><ul class="nav " data-astro-cid-3ef6ksr2><li data-astro-cid-3ef6ksr2><a href="/schedule" class="navItem " data-target data-astro-cid-3ef6ksr2>Schedule</a></li><li data-astro-cid-3ef6ksr2><a href="/shows" class="navItem " data-target data-astro-cid-3ef6ksr2>Shows</a></li><li data-astro-cid-3ef6ksr2><a href="/video-gallery" class="navItem " data-target data-astro-cid-3ef6ksr2>Watch</a></li><li data-astro-cid-3ef6ksr2><a href="https://games.gameshownetwork.com/" class="navItem " data-target target="_blank" rel="noopener noreferrer" data-astro-cid-3ef6ksr2>Games</a></li><li data-astro-cid-3ef6ksr2><a href="#lightbox:channel-finder-r0" class="navItem " data-target data-astro-cid-3ef6ksr2>Find Us</a></li><li data-astro-cid-3ef6ksr2><a href="/insider" class="navItem " data-target data-astro-cid-3ef6ksr2>Insider</a></li></ul><div id="hamburger-btn" class="hamburger hamburger--collapse" data-astro-cid-3ef6ksr2><div class="hamburger-box" data-astro-cid-3ef6ksr2><div class="hamburger-inner" data-astro-cid-3ef6ksr2></div></div></div><div id="slideMenu" style="--nav-bg-color: #1E306A; --nav-text-color: #FFFFFF; --slide-menu-logo-height: 4rem;" data-astro-cid-ijzzsazm> <a href="/" data-astro-cid-ijzzsazm> <img src="https://images.prismic.io/gameshownetwork/aR49vGGnmrmGqDYo_Game_Show_Network_Logo_2018_RGB.jpg?auto=format%2Ccompress&q=85" alt="Game Show Network" class="site-logo-slide-menu" data-astro-cid-ijzzsazm> </a> <ul class="nav" data-astro-cid-ijzzsazm> <li class="navItem-wrapper" data-astro-cid-ijzzsazm> <a href="/schedule" class="navItem" data-target data-astro-cid-ijzzsazm>Schedule</a> </li><li class="navItem-wrapper" data-astro-cid-ijzzsazm> <a href="/shows" class="navItem" data-target data-astro-cid-ijzzsazm>Shows</a> </li><li class="navItem-wrapper" data-astro-cid-ijzzsazm> <a href="/video-gallery" class="navItem" data-target data-astro-cid-ijzzsazm>Watch</a> </li><li class="navItem-wrapper" data-astro-cid-ijzzsazm> <a href="https://games.gameshownetwork.com/" class="navItem" data-target target="_blank" rel="noopener noreferrer" data-astro-cid-ijzzsazm>Games</a> </li><li class="navItem-wrapper" data-astro-cid-ijzzsazm> <a href="#lightbox:channel-finder-r0" class="navItem" data-target data-astro-cid-ijzzsazm>Find Us</a> </li><li class="navItem-wrapper" data-astro-cid-ijzzsazm> <a href="/insider" class="navItem" data-target data-astro-cid-ijzzsazm>Insider</a> </li> </ul> </div> <script type="module">c();d();function c(){document.querySelectorAll("#slideMenu .nav a").forEach(e=>{const t=e.getAttribute("href"),s=e.getAttribute("data-target"),a=document.getElementById("main-wrapper")?.classList.contains("homepage");e.addEventListener("click",o=>{if(s)if(o.preventDefault(),a){const i=document.getElementById(s);i&&(i.scrollIntoView({behavior:"smooth"}),r())}else window.location.href=`/homepage?nav=${s}`;else t&&t!=="#"?r():o.preventDefault()})})}function d(){const n=document.getElementById("slideMenu"),e=document.querySelector(".sony-header");if(!n)return;function t(){const s=e?e.offsetHeight:0;n.style.setProperty("--sony-header-height",`${s}px`)}t(),e&&new ResizeObserver(t).observe(e),window.addEventListener("resize",t)}function r(){const n=document.getElementById("slideMenu"),e=document.getElementById("main-wrapper"),t=document.getElementById("hamburger-btn");n?.classList.remove("open"),e?.classList.remove("menu-open"),t?.classList.remove("is-active")}</script> </header><script type="module">const nav_mini_mode_only = false;
+const menuItems = [{"label":"Schedule","url":{"id":"aUWxSxEAACEA8c5M","type":"page","tags":["schedule","page","shows","main page"],"lang":"en-us","slug":"the-perfect-line","first_publication_date":"2025-12-19T20:13:14+0000","last_publication_date":"2026-04-20T19:02:39+0000","uid":"schedule","link_type":"Document","key":"d4466b2d-84c9-4589-a31c-f9d734d94b50","isBroken":false},"jump_to_section":""},{"label":"Shows","url":{"id":"aR-LTRIAACcA8yuF","type":"page","tags":["shows","page","main page"],"lang":"en-us","slug":"weeknights-6p-et","first_publication_date":"2025-11-20T21:43:17+0000","last_publication_date":"2026-08-04T23:37:27+0000","uid":"shows","link_type":"Document","key":"00615e8e-0465-45c8-8bb9-6b36a4490dc7","isBroken":false},"jump_to_section":""},{"label":"Watch","url":{"id":"aUn9bBEAACEA-HpU","type":"page","tags":["video gallery","page","main page"],"lang":"en-us","slug":"watch-full-episodes-of-your-favorite-game-shows","first_publication_date":"2025-12-23T02:27:41+0000","last_publication_date":"2026-03-19T21:10:22+0000","uid":"video-gallery","link_type":"Document","key":"0e8abf24-f3d6-4c94-97e8-16bc830cb98c","isBroken":false},"jump_to_section":""},{"label":"Games","url":{"link_type":"Web","key":"f3653872-45fa-45d0-9a22-546173a147dd","url":"https://games.gameshownetwork.com/","target":"_blank"},"jump_to_section":""},{"label":"Find Us","url":{"link_type":"Web","key":"9f06245a-da73-4421-b001-b517c0cdd9d8","url":"#lightbox:channel-finder-r0"},"jump_to_section":""},{"label":"Insider","url":{"id":"aVY54xEAAIVYC3PQ","type":"page","tags":["insider","page"],"lang":"en-us","slug":"go-behind-the-scenes-with","first_publication_date":"2026-01-01T09:13:48+0000","last_publication_date":"2026-04-01T05:33:02+0000","uid":"insider","link_type":"Document","key":"cf55b09c-66fb-4118-ae64-cc6308a1225d","isBroken":false},"jump_to_section":""}];
+
+
+const NAV_MINI_ONLY = nav_mini_mode_only;
+
+if(menuItems.length === 0) {
+  // Handle case when there are no menu items
+	// console.log("no nav items");
+	initNavMorph();
+	initBodyPadding();
+} else {
+	initMobileNavLSwitch();
+	initNavMorph();
+	initMobileNav();
+	initNavIndicator();
+	initJumpToSection();
+	initBodyPadding();
+}
+
+function initNavIndicator() {
+  const nav = document.querySelector('.nav');
+  const links = nav.querySelectorAll('.navItem');
+
+  function movePill(target) {
+    if (!target) return;
+    const rect = target.getBoundingClientRect();
+    const navRect = nav.getBoundingClientRect();
+
+    nav.style.setProperty('--pill-width', `${rect.width}px`);
+    nav.style.setProperty('--pill-x', `${rect.left - navRect.left}px`);
+
+    // Remove pill-active from all links
+    links.forEach(link => link.classList.remove('pill-active'));
+    // Add to target
+    if (target) target.classList.add('pill-active');
+  }
+
+  // For each nav item
+  links.forEach(link => {
+
+    // Mouse enters an item → show + move pill
+    link.addEventListener('mouseenter', () => {
+      nav.classList.remove('pill-hide');
+      movePill(link);
+    });
+
+		// Mouse leaves this item → hide pill
+		// if nav has a selected item, move pill to that item
+		link.addEventListener('mouseleave', () => {
+			const selectedLink = nav.querySelector('.navItem.selected');
+			if (selectedLink) {
+			nav.classList.remove('pill-hide');
+			movePill(selectedLink);
+			} else {
+			nav.classList.add('pill-hide');
+			links.forEach(link => link.classList.remove('pill-active'));
+			}
+		});
+  });
+
+	// On page load, if there's a selected item, position pill there
+	window.addEventListener('load', () => {
+		const selectedLink = nav.querySelector('.navItem.selected');
+		if (selectedLink) {
+			movePill(selectedLink);
+		} else {
+			nav.classList.add('pill-hide');	
+			links.forEach(link => link.classList.remove('pill-active'));
+		}
+	});
+
+	// Watch for header class changes (e.g. `mini` added/removed) and reposition pill
+	// This ensures the active marker updates when switching between full/mini modes
+	const headerEl = document.querySelector('header');
+	if (headerEl) {
+		const headerObserver = new MutationObserver(mutations => {
+			for (const m of mutations) {
+				if (m.type === 'attributes' && m.attributeName === 'class') {
+					const selectedLink = nav.querySelector('.navItem.selected');
+					// If nav is hidden (collapsed) or no selected link, hide the pill
+					if (nav.classList.contains('hide') || !selectedLink) {
+						nav.classList.add('pill-hide');
+						links.forEach(link => link.classList.remove('pill-active'));
+					} else {
+						nav.classList.remove('pill-hide');
+						movePill(selectedLink);
+					}
+				}
+			}
+		});
+
+		headerObserver.observe(headerEl, { attributes: true, attributeFilter: ['class'] });
+	}
+}
+
+function initJumpToSection() {
+	const links = document.querySelectorAll('.nav .navItem[data-target]');
+	const isHomepage = document.getElementById('main-wrapper')?.classList.contains('homepage');
+
+	links.forEach(link => {
+		const target = link.getAttribute('data-target');
+		if (!target) return;
+
+		link.addEventListener('click', (e) => {
+			e.preventDefault();
+
+			if (isHomepage) {
+				// Already on the page — scroll smoothly to the section
+				const section = document.getElementById(target);
+				if (section) {
+					section.scrollIntoView({ behavior: 'smooth' });
+				}
+			} else {
+				// Navigate to the homepage and let it scroll on load
+				window.location.href = `/homepage?nav=${target}`;
+			}
+		});
+	});
+}
+
+function initNavMorph() {
+	const header = document.querySelector('header');
+	if (!header) return;
+	
+	// If CMS forces mini-mode only, apply mini class and skip scroll listener
+	if (NAV_MINI_ONLY) {
+		header.classList.add('mini');
+		return;
+	}
+	
+	window.addEventListener('scroll', () => {
+		//console.log("Scroll Y", window.scrollY);
+
+		if (window.scrollY > 100) {
+			// add "mini" class to "header"
+			header.classList.add('mini');
+		} else {
+			// remove "mini" class from "header"
+			header.classList.remove('mini');
+		}
+	});
+}
+
+function initMobileNavLSwitch() {
+	const logo = document.querySelector('.site-logo');
+	const nav = document.querySelector('.nav');
+	const hamburgerBtn = document.getElementById('hamburger-btn');
+	const header = document.querySelector('header');
+
+	if (!nav || !hamburgerBtn || !header) return;
+
+	// Batch checks to one per animation frame to prevent rapid-fire calls during resize
+	let checkScheduled = false;
+
+	function checkNavVisibility() {
+		if (checkScheduled) return;
+		checkScheduled = true;
+		requestAnimationFrame(() => {
+			_doCheck();
+			checkScheduled = false;
+		});
+	}
+
+	function _doCheck() {
+		const hadMini = header.classList.contains('mini');
+
+		// Suppress all transitions so our temporary class manipulation is invisible
+		header.style.transition = 'none';
+		nav.style.transition = 'none';
+		if (logo) logo.style.transition = 'none';
+
+		// Strip BOTH mini and hamburger-active so we always measure at the same
+		// base state — logo at full size, nav visible. This prevents the oscillation
+		// where the shrinking logo causes the next check to think there's space again.
+		header.classList.remove('mini', 'hamburger-active');
+		nav.classList.remove('hide');
+
+		// Force reflow so the browser applies the stripped state before measuring
+		void header.offsetHeight;
+
+		const navRect = nav.getBoundingClientRect();
+		const logoRight = logo ? logo.getBoundingClientRect().right : 150;
+		const PADDING = 30;
+
+		// Restore mini silently (hamburger-active will be set from the decision below)
+		if (hadMini) header.classList.add('mini');
+
+		// Force reflow so the restore is committed before re-enabling transitions
+		void header.offsetHeight;
+
+		// Re-enable transitions on the next frame so the user never sees the snapshot
+		requestAnimationFrame(() => {
+			header.style.transition = '';
+			nav.style.transition = '';
+			if (logo) logo.style.transition = '';
+		});
+
+		// Decision is now based on stable, base-state measurements — no oscillation possible
+		const shouldBeHamburger = navRect.width > 0 && navRect.left < logoRight + PADDING;
+
+		if (shouldBeHamburger) {
+			nav.classList.add('hide');
+			hamburgerBtn.classList.remove('hide');
+			header.classList.add('hamburger-active');
+		} else {
+			nav.classList.remove('hide');
+			hamburgerBtn.classList.add('hide');
+			header.classList.remove('hamburger-active');
+		}
+	}
+
+	// detect when the nav collides with the logo when window resizing
+	window.addEventListener('resize', checkNavVisibility);
+
+	// Wait for logo image to load before initial check
+	if (!logo || logo.complete) {
+		checkNavVisibility();
+	} else {
+		logo.addEventListener('load', checkNavVisibility);
+	}
+}
+
+function initMobileNav() {
+	const hamburgerBtn = document.getElementById('hamburger-btn');
+	const slideMenu = document.getElementById('slideMenu');
+
+	hamburgerBtn.addEventListener('click', () => {
+		hamburgerBtn.classList.toggle('is-active');
+		slideMenu.classList.toggle('open');
+	});
+
+	// close meny if clicked anywhere outside of slideMenu
+	window.addEventListener('click', (event) => {
+		const target = event.target;
+		const isClickInsideMenu = slideMenu.contains(target);
+		const isClickOnButton = hamburgerBtn.contains(target);
+
+		if (!isClickInsideMenu && !isClickOnButton) {
+			hamburgerBtn.classList.remove('is-active');
+			slideMenu.classList.remove('open');
+		}
+	});
+}
+
+function initBodyPadding() {
+	const header = document.querySelector('header');
+	const sonyHeader = document.querySelector('.sony-header');
+	const mainWrapper = document.getElementById('main-wrapper');
+
+	if (!header) return;
+
+	function getSonyHeaderHeight() {
+		return sonyHeader ? sonyHeader.offsetHeight : 0;
+	}
+
+	function updateHeaderTop() {
+		header.style.top = `${getSonyHeaderHeight()}px`;
+	}
+
+	// Always push the nav below the sony bar
+	updateHeaderTop();
+
+	if (NAV_MINI_ONLY && mainWrapper) {
+		mainWrapper.style.transition = 'padding-top 200ms';
+
+		function updateBodyPadding() {
+			const sonyH = getSonyHeaderHeight();
+			const headerHeight = header.offsetHeight;
+			mainWrapper.style.paddingTop = `${sonyH + headerHeight}px`;
+		}
+
+		updateBodyPadding();
+
+		const resizeObserver = new ResizeObserver(() => {
+			updateHeaderTop();
+			updateBodyPadding();
+		});
+
+		resizeObserver.observe(header);
+		if (sonyHeader) resizeObserver.observe(sonyHeader);
+
+		window.addEventListener('resize', () => {
+			updateHeaderTop();
+			updateBodyPadding();
+		});
+	} else {
+		// Still watch sony bar for resize to keep nav top correct
+		if (sonyHeader) {
+			const resizeObserver = new ResizeObserver(updateHeaderTop);
+			resizeObserver.observe(sonyHeader);
+		}
+		window.addEventListener('resize', updateHeaderTop);
+	}
+}
+
+</script>  <main class="error-404" style="--text-color: #1E306A; --cta-text-color: #FFFFFF; --cta-background-color: #ED3F28;" data-astro-cid-zetdm5md> <h1 class="sr-only" data-astro-cid-zetdm5md>Page Not Found</h1> <div class="error-container" data-astro-cid-zetdm5md> <div class="rich-content" data-astro-cid-zetdm5md><h1><strong>Oops!</strong></h1><h6>It looks like that page doesn&#39;t exist</h6></div> <a href="/" class="pill-button" data-astro-cid-zetdm5md> Back To Home </a> </div> </main>  <footer style="--text-color: #FFFFFF;" class="section-padding-default" data-astro-cid-sz7xmlte> <div class="slice-background" style="background-color: #1E306A; background-position: center; opacity: 1" data-astro-cid-gt2luanh>  </div>  <div class="content" data-astro-cid-sz7xmlte> <ul class="nav" style="max-width: 1200px" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte> <a href="/about" class="navItem" style="color: #FFFFFF" data-target data-astro-cid-sz7xmlte>About</a> </li><li data-astro-cid-sz7xmlte> <a href="https://www.sonypicturesjobs.com/" class="navItem" style="color: #FFFFFF" data-target target="_blank" rel="noopener noreferrer" data-astro-cid-sz7xmlte>Careers</a> </li><li data-astro-cid-sz7xmlte> <a href="/casting" class="navItem" style="color: #FFFFFF" data-target data-astro-cid-sz7xmlte>Casting</a> </li><li data-astro-cid-sz7xmlte> <a href="#lightbox:subscribe-mini-form-r0" class="navItem" style="color: #FFFFFF" data-target data-astro-cid-sz7xmlte>Newsletter</a> </li><li data-astro-cid-sz7xmlte> <a href="https://www.gameshowcentral.com/" class="navItem" style="color: #FFFFFF" data-target target="_blank" rel="noopener noreferrer" data-astro-cid-sz7xmlte>Game Show Central</a> </li><li data-astro-cid-sz7xmlte> <a href="/contact" class="navItem" style="color: #FFFFFF" data-target data-astro-cid-sz7xmlte>Contact</a> </li><li data-astro-cid-sz7xmlte> <a href="/privacy-policy" class="navItem" style="color: #FFFFFF" data-target data-astro-cid-sz7xmlte>Privacy Policy</a> </li><li data-astro-cid-sz7xmlte> <a href="/notices" class="navItem" style="color: #FFFFFF" data-target data-astro-cid-sz7xmlte>Legal</a> </li><li data-astro-cid-sz7xmlte> <a href="javascript:OneTrust.ToggleInfoDisplay();" class="navItem" style="color: #FFFFFF" data-target data-astro-cid-sz7xmlte>Cookie Consent Tool</a> </li><li data-astro-cid-sz7xmlte> <a href="https://privacyportal-cdn.onetrust.com/dsarwebform/d19e506f-1a64-463d-94e4-914dd635817d/b9eb997c-9ede-451b-8fd4-29891782a928.html" class="navItem" style="color: #FFFFFF" data-target target="_blank" rel="noopener noreferrer" data-astro-cid-sz7xmlte>Your Privacy Choices</a> </li> </ul> <div class="logos" data-astro-cid-sz7xmlte> <img src="https://images.prismic.io/gameshownetwork/aR-bs2GnmrmGqGM5_SPT_positivelogo.png?auto=format%2Ccompress&q=85" alt="Sony Pictures Television logo" class="logo" data-astro-cid-sz7xmlte> </div> <div class="social-icons" data-astro-cid-sz7xmlte> <a class="fa-brands fa-facebook-f" href="https://www.facebook.com/gameshownetwork/" target="_blank" rel="noopener noreferrer" data-astro-cid-sz7xmlte> <span class="sr-only" data-astro-cid-sz7xmlte>Facebook (opens in a new tab)</span> </a> <a class="fa-brands fa-instagram" href="https://www.instagram.com/gameshownetwork/" target="_blank" rel="noopener noreferrer" data-astro-cid-sz7xmlte> <span class="sr-only" data-astro-cid-sz7xmlte>Instagram (opens in a new tab)</span> </a> <a class="fa-brands fa-x-twitter" href="https://twitter.com/gameshownetwork" target="_blank" rel="noopener noreferrer" data-astro-cid-sz7xmlte> <span class="sr-only" data-astro-cid-sz7xmlte>X / Twitter (opens in a new tab)</span> </a> <a class="fa-brands fa-tiktok" href="https://www.tiktok.com/@game_show_network" target="_blank" rel="noopener noreferrer" data-astro-cid-sz7xmlte> <span class="sr-only" data-astro-cid-sz7xmlte>TikTok (opens in a new tab)</span> </a> <a class="fa-brands fa-youtube" href="https://www.youtube.com/gameshownetwork" target="_blank" rel="noopener noreferrer" data-astro-cid-sz7xmlte> <span class="sr-only" data-astro-cid-sz7xmlte>YouTube (opens in a new tab)</span> </a> <a class="fa-brands fa-linkedin" href="https://www.linkedin.com/company/gsn_tv" target="_blank" rel="noopener noreferrer" data-astro-cid-sz7xmlte> <span class="sr-only" data-astro-cid-sz7xmlte>LinkedIn (opens in a new tab)</span> </a> </div> <div class="copyright" style="color: #FFFFFF" data-astro-cid-sz7xmlte> <p data-astro-cid-sz7xmlte>© Game Show Network, LLC 2004 – 2026. All Rights Reserved.</p> </div> </div></footer> <script type="module">const a=document.querySelectorAll("footer .nav .navItem[data-target]"),r=document.getElementById("main-wrapper")?.classList.contains("homepage");a.forEach(t=>{const e=t.getAttribute("data-target");e&&t.addEventListener("click",n=>{if(n.preventDefault(),r){const o=document.getElementById(e);o&&o.scrollIntoView({behavior:"smooth"})}else window.location.href=`/homepage?nav=${e}`})});</script>  <div id="universal-lightbox" class="lightbox" aria-hidden="true" inert role="dialog" aria-modal="true" data-astro-cid-hiopj22y> <div class="lightbox-overlay" data-lightbox-close data-astro-cid-hiopj22y></div> <div class="lightbox-container" data-astro-cid-hiopj22y> <button class="lightbox-close" data-lightbox-close aria-label="Close lightbox" data-astro-cid-hiopj22y> <svg aria-hidden="true" focusable="false" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" data-astro-cid-hiopj22y> <path d="M18 6L6 18M6 6L18 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-astro-cid-hiopj22y></path> </svg> </button> <div class="lightbox-content" id="lightbox-content" data-astro-cid-hiopj22y> <!-- Content will be injected here --> </div> </div> </div> <script type="module">class r{lightbox;contentContainer;closeButtons;originalContent;originalParent;constructor(){this.lightbox=document.getElementById("universal-lightbox"),this.contentContainer=document.getElementById("lightbox-content"),this.closeButtons=document.querySelectorAll("[data-lightbox-close]"),this.originalContent=null,this.originalParent=null,this.init()}init(){this.setupCloseHandlers(),this.setupKeyboardHandlers(),this.setupTriggers()}setupCloseHandlers(){this.closeButtons.forEach(t=>{t.addEventListener("click",()=>this.close())})}setupKeyboardHandlers(){document.addEventListener("keydown",t=>{t.key==="Escape"&&this.lightbox?.classList.contains("is-active")&&this.close()})}setupTriggers(){document.addEventListener("click",t=>{const e=t.target;if(!e)return;const n=e.closest("[data-lightbox-target]");if(n){t.preventDefault();const s=n.getAttribute("data-lightbox-target");s&&this.open(s)}})}open(t){const e=document.getElementById(t);if(!e){console.error(`Lightbox: Element with id "${t}" not found`);return}if(!this.lightbox||!this.contentContainer){console.error("Lightbox: Required elements not found");return}this.originalContent=e,this.originalParent=e.parentNode;const n=e.cloneNode(!0);n.style.display="block",this.contentContainer.innerHTML="",this.contentContainer.appendChild(n),this.lightbox.classList.add("is-active"),this.lightbox.removeAttribute("inert"),this.lightbox.setAttribute("aria-hidden","false"),document.body.classList.add("lightbox-open"),this.updateUrlParameter(t),document.dispatchEvent(new CustomEvent("lightboxOpened",{detail:{targetId:t,contentContainer:this.contentContainer,clonedContent:n}})),this.trapFocus()}close(){!this.lightbox||!this.contentContainer||(this.contentContainer.innerHTML="",this.lightbox.classList.remove("is-active"),this.lightbox.setAttribute("inert",""),this.lightbox.setAttribute("aria-hidden","true"),document.body.classList.remove("lightbox-open"),this.removeUrlParameter(),this.originalContent=null,this.originalParent=null)}trapFocus(){if(!this.lightbox)return;const t=this.lightbox.querySelectorAll('button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])');t.length>0&&t[0].focus()}updateUrlParameter(t){const e=new URL(window.location.href);e.searchParams.set("lightbox",t),window.history.pushState({},"",e)}removeUrlParameter(){const t=new URL(window.location.href);t.searchParams.delete("lightbox"),window.history.pushState({},"",t)}}let i;document.readyState==="loading"?document.addEventListener("DOMContentLoaded",()=>{i=new r,window.lightboxInstance=i}):(i=new r,window.lightboxInstance=i);window.openLightbox=o=>{window.lightboxInstance?window.lightboxInstance.open(o):console.error("Lightbox not initialized yet")};window.closeLightbox=()=>{window.lightboxInstance&&window.lightboxInstance.close()};</script>  <div id="exit-notice" style="display: none;" aria-hidden="true" data-astro-cid-gcpu2hbp> <div class="exit-notice" data-astro-cid-gcpu2hbp> <div class="exit-label" style="color: #1E306A;" data-astro-cid-gcpu2hbp> <span class="msg-heading" data-astro-cid-gcpu2hbp>YOU ARE LEAVING GAME SHOW NETWORK WEBSITE!</span> <br data-astro-cid-gcpu2hbp>You are leaving our site and Sony Pictures does not control the content<br data-astro-cid-gcpu2hbp>of the website you are going to.<br data-astro-cid-gcpu2hbp>Sony Pictures&#39; privacy practices and controls do not apply once you leave our site. </div> <div class="exit-actions" data-astro-cid-gcpu2hbp> <div data-exit-notice-proceed data-astro-cid-gcpu2hbp> <a href="#" target="_blank" class="standard-pill-btn" style="--text-color: #FFFFFF; --rgb-bg-color: 30,48,106;" data-astro-cid-ec2ngpys>Proceed</a> </div> <div data-exit-notice-cancel data-astro-cid-gcpu2hbp> <a href="#" class="standard-pill-btn" style="--text-color: #ffffff; --rgb-bg-color: 136,136,136;" data-astro-cid-ec2ngpys>Cancel</a> </div> </div> </div> </div> <script type="module">document.addEventListener("click",e=>{const t=e.target;if(t){if(t.closest("[data-exit-notice-proceed]")){setTimeout(()=>{window.closeLightbox&&window.closeLightbox()},150);return}if(t.closest("[data-exit-notice-cancel]")){e.preventDefault(),window.closeLightbox&&window.closeLightbox();return}}});</script>   <script type="module">function d(){if(typeof window>"u")return;const t=window.__gaId||"";let i=!1,a=0;function e(){return window.OnetrustActiveGroups&&window.OnetrustActiveGroups.includes("C0004")&&window.OnetrustActiveGroups.includes("C0002")}function o(){if(!t||i)return;i=!0;const n=document.createElement("script");n.async=!0,n.src=`https://www.googletagmanager.com/gtag/js?id=${t}`,document.head.appendChild(n),window.dataLayer=window.dataLayer||[],window.gtag=function(){window.dataLayer.push(arguments)},window.gtag("js",new Date),window.gtag("config",t),console.log(`*** OneTrust: GA initialized with ${t}`)}if(window.OptanonWrapper=function(){const n=window.OneTrust?.getGeolocationData?.()?.country;window.dataLayer=window.dataLayer||[],window.dataLayer.push({event:"GACountry",OneTrustCountryCode:n}),a++,a>1&&setTimeout(()=>{console.log("*** OneTrust: User consent was updated; reloading page."),document.location.reload()},2e3),e()&&o()},e())o();else{const n=window.setInterval(()=>{e()&&(o(),window.clearInterval(n))},500);setTimeout(()=>window.clearInterval(n),1e4)}}d();</script> </body></html> 
